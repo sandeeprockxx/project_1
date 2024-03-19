@@ -1,3 +1,3 @@
 # project_1
 my first git repo
-Author-sandeep mishra
+Author-sandeep mishra (student)
